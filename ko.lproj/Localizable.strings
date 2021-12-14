@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LearningNewThings
+
+  Created by ADOP_Mac on 2021/12/12.
+  
+*/
+
+"app-greet-title %@" = "%@님 환영합니다!";
